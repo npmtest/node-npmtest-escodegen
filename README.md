@@ -1,4 +1,7 @@
-# test coverage for  [escodegen (v1.8.1)](http://github.com/estools/escodegen)  [![npm package](https://img.shields.io/npm/v/npmtest-escodegen.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-escodegen) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-escodegen.svg)](https://travis-ci.org/npmtest/node-npmtest-escodegen)
+# npmtest-escodegen
+
+#### basic test coverage for  [escodegen (v1.8.1)](http://github.com/estools/escodegen)  [![npm package](https://img.shields.io/npm/v/npmtest-escodegen.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-escodegen) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-escodegen.svg)](https://travis-ci.org/npmtest/node-npmtest-escodegen)
+
 #### ECMAScript code generator
 
 [![NPM](https://nodei.co/npm/escodegen.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/escodegen)
